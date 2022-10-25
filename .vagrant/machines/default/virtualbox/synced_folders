@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"C:/src/github.com/ofirtzabari/beyond-tutorial","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"C:/src/github.com/ofirtzabari/beyond/beyond-tutorial","disabled":false,"__vagrantfile":true}}}
